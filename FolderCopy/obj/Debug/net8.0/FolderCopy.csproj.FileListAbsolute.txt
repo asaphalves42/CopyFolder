@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\bin\Debug\net8.0\FolderCopy.exe
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\bin\Debug\net8.0\FolderCopy.deps.json
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\bin\Debug\net8.0\FolderCopy.runtimeconfig.json
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\bin\Debug\net8.0\FolderCopy.dll
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\bin\Debug\net8.0\FolderCopy.pdb
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\obj\Debug\net8.0\FolderCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\obj\Debug\net8.0\FolderCopy.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\obj\Debug\net8.0\FolderCopy.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\obj\Debug\net8.0\FolderCopy.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\obj\Debug\net8.0\FolderCopy.dll
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\obj\Debug\net8.0\refint\FolderCopy.dll
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\obj\Debug\net8.0\FolderCopy.pdb
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\obj\Debug\net8.0\FolderCopy.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\FolderCopy\FolderCopy\obj\Debug\net8.0\ref\FolderCopy.dll
